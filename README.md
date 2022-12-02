@@ -64,7 +64,7 @@ Ce dossier contient tous les documents liés aux diagrammes UML.
 - MATHOURI Youssef
 - KHACHANE Chaimae
 - AAZIZI Mojahid
-- LHOUIFI Youssef
+- LAHOUIFI Youssef
 - OUSAA aissa
 - Rafiki Ahmed
 - AADIL BIZZOU
